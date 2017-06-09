@@ -1,3 +1,18 @@
 #input{
-  width: 50%;
+  width: 10%;
+}
+.header{
+  text-align: center;
+  padding: 5% 0% 5% 0%;
+  background-color: #efeb09;
+  margin-left: -2%;
+  margin-right: -1.2%;
+  ;
+}
+.main{
+  background-color:#adad96;
+  height: 100%
+}
+.info{
+  background-color: #3c664f;
 }
