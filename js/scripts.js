@@ -10,12 +10,12 @@ function Pingpong(userInput) {
     }else {
       $("#answer").append('<li>'+i+'</li>');
     }
-  }  
+  }
 }
 
 $(document).ready(function () {
   $("form").submit(function (event) {
-
+    $("#answer").text("");
     var userInput = parseInt($("input#numbers").val());
     var result = Pingpong(userInput)
 event.preventDefault();
