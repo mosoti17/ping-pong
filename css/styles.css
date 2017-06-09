@@ -7,6 +7,7 @@
   background-color: #efeb09;
   margin-left: -2%;
   margin-right: -1.2%;
+  font-family: 'Monoton', cursive;
   ;
 }
 .main{
@@ -15,4 +16,12 @@
 }
 .info{
   background-color: #3c664f;
+
+}
+.info h3{
+  font-family: 'Covered By Your Grace', cursive;
+
+}
+.info p{
+  font-family: 'Mogra', cursive;
 }
